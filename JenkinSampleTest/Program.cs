@@ -10,6 +10,7 @@ namespace JenkinSampleTest
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
             Console.WriteLine("Jenkins Sample Test");
             Console.ReadLine();
 
